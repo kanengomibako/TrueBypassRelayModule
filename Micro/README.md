@@ -1,4 +1,7 @@
 ﻿# True Bypass Relay Module Micro
+
+<img src="pic_TrueBypassRelayModuleMicro.jpg" width="30%"><br>
+
 モーメンタリースイッチを接続して、エフェクターのトゥルーバイパスとインジケーターLED切替を行うことができるモジュールです。
 
 
@@ -27,7 +30,8 @@
 
 
 ### 資料
-- [True Bypass Relay Module Micro 製作に関するブログ記事](https://drugscore.blog.fc2.com/)（準備中）
+- [True Bypass Relay Module Micro 製作に関するブログ記事](https://drugscore.blog.fc2.com/blog-entry-349.html)
+
 
 
 
